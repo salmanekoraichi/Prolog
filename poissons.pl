@@ -2,7 +2,7 @@
  * SYSTEME EXPERT DE CLASSIFICATION DES POISSONS
  * ==========================================================
  *
- * Auteur : Système amélioré et corrigé
+ * Auteur : Salmane Koraichi
  * Date   : Mars 2025
  * 
  * Ce programme est un système expert permettant d'identifier
