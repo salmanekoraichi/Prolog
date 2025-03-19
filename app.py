@@ -249,4 +249,4 @@ r'''/* ==========================================================
  * - Les prédicats init_reponses/1 et classify_reponses/4 pour l'intégration externe.
  */''', language="prolog")
     
-    st.markdown("Pour plus de détails et pour télécharger l'intégralité du code, consultez le dépôt GitHub [ici](https://github.com/yourusername/yourrepo).")
+    st.markdown("Pour plus de détails et pour télécharger l'intégralité du code, consultez le dépôt GitHub [ici](https://github.com/salmanekoraichi/Prolog).")
